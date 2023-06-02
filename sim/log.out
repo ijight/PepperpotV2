@@ -1,9 +1,9 @@
-  Task begin at  May 31,2023,15:47:27     
+  Task begin at  Jun 02,2023,16:08:26     
   I.D. generation random number seed=          100
   Wtmp=    1000.00000000000     
   Phmax, dWWmax=    180.000000000000       0.200000000000000     
   Phmax, dWWmax, pstat_q =    360.000000000000        1.00000000000000     
-   1001.00000000000       0.000000000000000E+000  0.000000000000000E+000
+   100001.000000000       0.000000000000000E+000  0.000000000000000E+000
   0.000000000000000E+000  0.000000000000000E+000  0.000000000000000E+000
   Hard-edge Quad with fields for SC calculations 
   Hard-edge Quad with fields for SC calculations 
@@ -447,4 +447,4 @@
   Hard-edge Quad with fields for SC calculations 
   Hard-edge Quad with fields for SC calculations 
   Hard-edge Quad with fields for SC calculations 
-    Task end at  May 31,2023,15:47:32     
+    Task end at  Jun 02,2023,16:10:19     
