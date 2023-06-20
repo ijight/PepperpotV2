@@ -1,0 +1,492 @@
+Model: .\cnn_oldmodel_500images_b4_e500.pth, Aggregate Score: 16.1314
+Metrics for prediction 1:
+Mean Absolute Error: 0.9431
+Mean Absolute Percentage Error: 22.29%
+Symmetric Mean Absolute Percentage Error: 21.53%
+Root Mean Square Error: 1.0650
+Metrics for prediction 2:
+Mean Absolute Error: 22.3700
+Mean Absolute Percentage Error: 8.25%
+Symmetric Mean Absolute Percentage Error: 9.17%
+Root Mean Square Error: 43.4254
+
+Model: .\cnn_model3_bs4_lr0.001_e500.pth, Aggregate Score: 84.6286
+Metrics for prediction 1:
+Mean Absolute Error: 4.0776
+Mean Absolute Percentage Error: 94.04%
+Symmetric Mean Absolute Percentage Error: 132.47%
+Root Mean Square Error: 4.6347
+Metrics for prediction 2:
+Mean Absolute Error: 148.9880
+Mean Absolute Percentage Error: 50.07%
+Symmetric Mean Absolute Percentage Error: 63.74%
+Root Mean Square Error: 179.0111
+
+Model: .\cnn_model3_bs8_lr0.001_e400.pth, Aggregate Score: 88.2810
+Metrics for prediction 1:
+Mean Absolute Error: 4.4681
+Mean Absolute Percentage Error: 103.50%
+Symmetric Mean Absolute Percentage Error: 153.43%
+Root Mean Square Error: 4.8325
+Metrics for prediction 2:
+Mean Absolute Error: 148.6393
+Mean Absolute Percentage Error: 54.86%
+Symmetric Mean Absolute Percentage Error: 62.36%
+Root Mean Square Error: 174.1528
+
+Model: .\cnn_model3_bs4_lr0.1_e400.pth, Aggregate Score: 88.5069
+Metrics for prediction 1:
+Mean Absolute Error: 5.7699
+Mean Absolute Percentage Error: 135.88%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 5.7890
+Metrics for prediction 2:
+Mean Absolute Error: 113.0453
+Mean Absolute Percentage Error: 70.62%
+Symmetric Mean Absolute Percentage Error: 45.32%
+Root Mean Square Error: 131.6284
+
+Model: .\cnn_model3_bs4_lr0.001_e100.pth, Aggregate Score: 88.6226
+Metrics for prediction 1:
+Mean Absolute Error: 4.1955
+Mean Absolute Percentage Error: 97.23%
+Symmetric Mean Absolute Percentage Error: 144.27%
+Root Mean Square Error: 4.5935
+Metrics for prediction 2:
+Mean Absolute Error: 155.1198
+Mean Absolute Percentage Error: 54.79%
+Symmetric Mean Absolute Percentage Error: 67.18%
+Root Mean Square Error: 181.5970
+
+Model: .\cnn_model3_bs4_lr0.001_e400.pth, Aggregate Score: 88.7110
+Metrics for prediction 1:
+Mean Absolute Error: 4.3936
+Mean Absolute Percentage Error: 101.46%
+Symmetric Mean Absolute Percentage Error: 150.34%
+Root Mean Square Error: 4.8265
+Metrics for prediction 2:
+Mean Absolute Error: 151.2370
+Mean Absolute Percentage Error: 53.48%
+Symmetric Mean Absolute Percentage Error: 65.27%
+Root Mean Square Error: 178.6856
+
+Model: .\cnn_model3_bs4_lr0.1_e500.pth, Aggregate Score: 88.8555
+Metrics for prediction 1:
+Mean Absolute Error: 5.8706
+Mean Absolute Percentage Error: 138.27%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 5.8893
+Metrics for prediction 2:
+Mean Absolute Error: 113.0713
+Mean Absolute Percentage Error: 70.77%
+Symmetric Mean Absolute Percentage Error: 45.32%
+Root Mean Square Error: 131.6427
+
+Model: .\cnn_model3_bs8_lr0.1_e400.pth, Aggregate Score: 88.9079
+Metrics for prediction 1:
+Mean Absolute Error: 5.9580
+Mean Absolute Percentage Error: 140.35%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 5.9764
+Metrics for prediction 2:
+Mean Absolute Error: 112.8855
+Mean Absolute Percentage Error: 69.11%
+Symmetric Mean Absolute Percentage Error: 45.36%
+Root Mean Square Error: 131.6199
+
+Model: .\cnn_model3_bs4_lr0.1_e100.pth, Aggregate Score: 88.9476
+Metrics for prediction 1:
+Mean Absolute Error: 5.9013
+Mean Absolute Percentage Error: 139.00%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 5.9199
+Metrics for prediction 2:
+Mean Absolute Error: 115.7421
+Mean Absolute Percentage Error: 62.23%
+Symmetric Mean Absolute Percentage Error: 46.90%
+Root Mean Square Error: 135.8891
+
+Model: .\cnn_model3_bs4_lr0.1_e300.pth, Aggregate Score: 89.0427
+Metrics for prediction 1:
+Mean Absolute Error: 5.9357
+Mean Absolute Percentage Error: 139.82%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 5.9542
+Metrics for prediction 2:
+Mean Absolute Error: 113.0472
+Mean Absolute Percentage Error: 70.63%
+Symmetric Mean Absolute Percentage Error: 45.32%
+Root Mean Square Error: 131.6294
+
+Model: .\cnn_model3_bs8_lr0.1_e300.pth, Aggregate Score: 89.1201
+Metrics for prediction 1:
+Mean Absolute Error: 5.9620
+Mean Absolute Percentage Error: 140.45%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 5.9804
+Metrics for prediction 2:
+Mean Absolute Error: 113.0397
+Mean Absolute Percentage Error: 70.58%
+Symmetric Mean Absolute Percentage Error: 45.32%
+Root Mean Square Error: 131.6255
+
+Model: .\cnn_model3_bs8_lr0.001_e100.pth, Aggregate Score: 89.1604
+Metrics for prediction 1:
+Mean Absolute Error: 4.5603
+Mean Absolute Percentage Error: 105.57%
+Symmetric Mean Absolute Percentage Error: 155.32%
+Root Mean Square Error: 4.9781
+Metrics for prediction 2:
+Mean Absolute Error: 149.4233
+Mean Absolute Percentage Error: 49.58%
+Symmetric Mean Absolute Percentage Error: 65.38%
+Root Mean Square Error: 178.4639
+
+Model: .\cnn_model3_bs8_lr0.001_e300.pth, Aggregate Score: 89.2968
+Metrics for prediction 1:
+Mean Absolute Error: 4.6731
+Mean Absolute Percentage Error: 108.03%
+Symmetric Mean Absolute Percentage Error: 154.48%
+Root Mean Square Error: 5.0972
+Metrics for prediction 2:
+Mean Absolute Error: 149.4706
+Mean Absolute Percentage Error: 52.36%
+Symmetric Mean Absolute Percentage Error: 63.00%
+Root Mean Square Error: 177.2654
+
+Model: .\cnn_model3_bs8_lr0.01_e300.pth, Aggregate Score: 91.2252
+Metrics for prediction 1:
+Mean Absolute Error: 4.2157
+Mean Absolute Percentage Error: 97.31%
+Symmetric Mean Absolute Percentage Error: 160.30%
+Root Mean Square Error: 4.5980
+Metrics for prediction 2:
+Mean Absolute Error: 154.9334
+Mean Absolute Percentage Error: 54.32%
+Symmetric Mean Absolute Percentage Error: 70.27%
+Root Mean Square Error: 183.8541
+
+Model: .\cnn_model3_bs4_lr0.001_e300.pth, Aggregate Score: 92.4552
+Metrics for prediction 1:
+Mean Absolute Error: 4.3519
+Mean Absolute Percentage Error: 100.16%
+Symmetric Mean Absolute Percentage Error: 150.50%
+Root Mean Square Error: 4.8676
+Metrics for prediction 2:
+Mean Absolute Error: 162.0705
+Mean Absolute Percentage Error: 57.58%
+Symmetric Mean Absolute Percentage Error: 71.16%
+Root Mean Square Error: 188.9537
+
+Model: .\cnn_model3_bs4_lr0.001_e30.pth, Aggregate Score: 92.7040
+Metrics for prediction 1:
+Mean Absolute Error: 3.8621
+Mean Absolute Percentage Error: 89.31%
+Symmetric Mean Absolute Percentage Error: 143.95%
+Root Mean Square Error: 4.2195
+Metrics for prediction 2:
+Mean Absolute Error: 169.0171
+Mean Absolute Percentage Error: 62.03%
+Symmetric Mean Absolute Percentage Error: 74.58%
+Root Mean Square Error: 194.6588
+
+Model: .\cnn_model3_bs8_lr0.001_e50.pth, Aggregate Score: 93.0938
+Metrics for prediction 1:
+Mean Absolute Error: 4.4488
+Mean Absolute Percentage Error: 102.74%
+Symmetric Mean Absolute Percentage Error: 145.45%
+Root Mean Square Error: 5.0123
+Metrics for prediction 2:
+Mean Absolute Error: 164.6922
+Mean Absolute Percentage Error: 63.11%
+Symmetric Mean Absolute Percentage Error: 71.89%
+Root Mean Square Error: 187.3975
+
+Model: .\cnn_model3_bs8_lr0.001_e500.pth, Aggregate Score: 96.2798
+Metrics for prediction 1:
+Mean Absolute Error: 5.0021
+Mean Absolute Percentage Error: 115.86%
+Symmetric Mean Absolute Percentage Error: 165.57%
+Root Mean Square Error: 5.4337
+Metrics for prediction 2:
+Mean Absolute Error: 161.7077
+Mean Absolute Percentage Error: 57.55%
+Symmetric Mean Absolute Percentage Error: 71.23%
+Root Mean Square Error: 187.8867
+
+Model: .\cnn_model3_bs8_lr0.01_e50.pth, Aggregate Score: 96.4967
+Metrics for prediction 1:
+Mean Absolute Error: 5.5663
+Mean Absolute Percentage Error: 139.45%
+Symmetric Mean Absolute Percentage Error: 69.87%
+Root Mean Square Error: 9.1336
+Metrics for prediction 2:
+Mean Absolute Error: 183.6737
+Mean Absolute Percentage Error: 71.88%
+Symmetric Mean Absolute Percentage Error: 84.00%
+Root Mean Square Error: 208.3987
+
+Model: .\cnn_model3_bs8_lr0.001_e30.pth, Aggregate Score: 98.5079
+Metrics for prediction 1:
+Mean Absolute Error: 4.1738
+Mean Absolute Percentage Error: 96.29%
+Symmetric Mean Absolute Percentage Error: 142.03%
+Root Mean Square Error: 4.6409
+Metrics for prediction 2:
+Mean Absolute Error: 182.4279
+Mean Absolute Percentage Error: 66.59%
+Symmetric Mean Absolute Percentage Error: 83.86%
+Root Mean Square Error: 208.0437
+
+Model: .\cnn_model3_bs4_lr0.001_e50.pth, Aggregate Score: 98.7708
+Metrics for prediction 1:
+Mean Absolute Error: 4.7844
+Mean Absolute Percentage Error: 111.09%
+Symmetric Mean Absolute Percentage Error: 164.22%
+Root Mean Square Error: 5.1737
+Metrics for prediction 2:
+Mean Absolute Error: 170.5380
+Mean Absolute Percentage Error: 63.84%
+Symmetric Mean Absolute Percentage Error: 75.41%
+Root Mean Square Error: 195.1132
+
+Model: .\cnn_model3_bs4_lr0.01_e500.pth, Aggregate Score: 100.0900
+Metrics for prediction 1:
+Mean Absolute Error: 5.1178
+Mean Absolute Percentage Error: 119.91%
+Symmetric Mean Absolute Percentage Error: 197.22%
+Root Mean Square Error: 5.1963
+Metrics for prediction 2:
+Mean Absolute Error: 158.3889
+Mean Absolute Percentage Error: 54.09%
+Symmetric Mean Absolute Percentage Error: 71.75%
+Root Mean Square Error: 189.0440
+
+Model: .\cnn_model3_bs4_lr0.01_e100.pth, Aggregate Score: 102.6401
+Metrics for prediction 1:
+Mean Absolute Error: 5.6351
+Mean Absolute Percentage Error: 132.84%
+Symmetric Mean Absolute Percentage Error: 178.29%
+Root Mean Square Error: 6.1221
+Metrics for prediction 2:
+Mean Absolute Error: 168.4707
+Mean Absolute Percentage Error: 60.61%
+Symmetric Mean Absolute Percentage Error: 74.71%
+Root Mean Square Error: 194.4382
+
+Model: .\cnn_model3_bs4_lr0.1_e50.pth, Aggregate Score: 103.5023
+Metrics for prediction 1:
+Mean Absolute Error: 6.1805
+Mean Absolute Percentage Error: 144.45%
+Symmetric Mean Absolute Percentage Error: 180.35%
+Root Mean Square Error: 6.8186
+Metrics for prediction 2:
+Mean Absolute Error: 163.1141
+Mean Absolute Percentage Error: 71.00%
+Symmetric Mean Absolute Percentage Error: 71.56%
+Root Mean Square Error: 184.5442
+
+Model: .\cnn_model3_bs4_lr0.01_e30.pth, Aggregate Score: 103.6802
+Metrics for prediction 1:
+Mean Absolute Error: 4.8006
+Mean Absolute Percentage Error: 110.97%
+Symmetric Mean Absolute Percentage Error: 170.34%
+Root Mean Square Error: 5.2277
+Metrics for prediction 2:
+Mean Absolute Error: 179.9722
+Mean Absolute Percentage Error: 77.60%
+Symmetric Mean Absolute Percentage Error: 78.64%
+Root Mean Square Error: 201.8881
+
+Model: .\cnn_model3_bs4_lr0.01_e50.pth, Aggregate Score: 106.7691
+Metrics for prediction 1:
+Mean Absolute Error: 5.3254
+Mean Absolute Percentage Error: 123.86%
+Symmetric Mean Absolute Percentage Error: 189.96%
+Root Mean Square Error: 5.5525
+Metrics for prediction 2:
+Mean Absolute Error: 177.9508
+Mean Absolute Percentage Error: 69.44%
+Symmetric Mean Absolute Percentage Error: 80.57%
+Root Mean Square Error: 201.5099
+
+Model: .\cnn_model3_bs8_lr0.01_e100.pth, Aggregate Score: 109.3704
+Metrics for prediction 1:
+Mean Absolute Error: 5.5174
+Mean Absolute Percentage Error: 128.11%
+Symmetric Mean Absolute Percentage Error: 190.25%
+Root Mean Square Error: 5.8704
+Metrics for prediction 2:
+Mean Absolute Error: 182.4671
+Mean Absolute Percentage Error: 81.87%
+Symmetric Mean Absolute Percentage Error: 80.75%
+Root Mean Square Error: 200.1220
+
+Model: .\cnn_model3_bs8_lr0.01_e30.pth, Aggregate Score: 109.6216
+Metrics for prediction 1:
+Mean Absolute Error: 5.3410
+Mean Absolute Percentage Error: 123.36%
+Symmetric Mean Absolute Percentage Error: 178.46%
+Root Mean Square Error: 5.8337
+Metrics for prediction 2:
+Mean Absolute Error: 188.9216
+Mean Absolute Percentage Error: 82.29%
+Symmetric Mean Absolute Percentage Error: 84.07%
+Root Mean Square Error: 208.6988
+
+Model: .\cnn_model3_bs4_lr0.1_e30.pth, Aggregate Score: 110.5974
+Metrics for prediction 1:
+Mean Absolute Error: 5.2317
+Mean Absolute Percentage Error: 121.89%
+Symmetric Mean Absolute Percentage Error: 188.21%
+Root Mean Square Error: 5.3921
+Metrics for prediction 2:
+Mean Absolute Error: 186.1721
+Mean Absolute Percentage Error: 75.60%
+Symmetric Mean Absolute Percentage Error: 90.25%
+Root Mean Square Error: 212.0375
+
+Model: .\cnn_model3_bs8_lr0.01_e400.pth, Aggregate Score: 120.7739
+Metrics for prediction 1:
+Mean Absolute Error: 7.9691
+Mean Absolute Percentage Error: 188.17%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 8.0639
+Metrics for prediction 2:
+Mean Absolute Error: 188.0013
+Mean Absolute Percentage Error: 83.31%
+Symmetric Mean Absolute Percentage Error: 86.46%
+Root Mean Square Error: 204.2154
+
+Model: .\cnn_model3_bs8_lr0.1_e100.pth, Aggregate Score: 120.7839
+Metrics for prediction 1:
+Mean Absolute Error: 4.3916
+Mean Absolute Percentage Error: 103.12%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 4.4166
+Metrics for prediction 2:
+Mean Absolute Error: 216.1927
+Mean Absolute Percentage Error: 70.04%
+Symmetric Mean Absolute Percentage Error: 115.02%
+Root Mean Square Error: 253.0902
+
+Model: .\cnn_model3_bs4_lr0.01_e300.pth, Aggregate Score: 121.9167
+Metrics for prediction 1:
+Mean Absolute Error: 6.6026
+Mean Absolute Percentage Error: 155.59%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 6.6389
+Metrics for prediction 2:
+Mean Absolute Error: 198.5678
+Mean Absolute Percentage Error: 104.28%
+Symmetric Mean Absolute Percentage Error: 87.65%
+Root Mean Square Error: 215.9921
+
+Model: .\cnn_model3_bs4_lr0.01_e400.pth, Aggregate Score: 126.5504
+Metrics for prediction 1:
+Mean Absolute Error: 4.7817
+Mean Absolute Percentage Error: 112.92%
+Symmetric Mean Absolute Percentage Error: 187.98%
+Root Mean Square Error: 4.8532
+Metrics for prediction 2:
+Mean Absolute Error: 228.7417
+Mean Absolute Percentage Error: 124.66%
+Symmetric Mean Absolute Percentage Error: 95.57%
+Root Mean Square Error: 252.8909
+
+Model: .\cnn_model3_bs16_lr0.1_e300.pth, Aggregate Score: 127.3478
+Metrics for prediction 1:
+Mean Absolute Error: 7.5823
+Mean Absolute Percentage Error: 178.72%
+Symmetric Mean Absolute Percentage Error: 199.46%
+Root Mean Square Error: 8.0141
+Metrics for prediction 2:
+Mean Absolute Error: 203.3935
+Mean Absolute Percentage Error: 98.86%
+Symmetric Mean Absolute Percentage Error: 97.41%
+Root Mean Square Error: 225.3439
+
+Model: .\cnn_model3_bs8_lr0.01_e500.pth, Aggregate Score: 133.2163
+Metrics for prediction 1:
+Mean Absolute Error: 5.2962
+Mean Absolute Percentage Error: 124.80%
+Symmetric Mean Absolute Percentage Error: 199.87%
+Root Mean Square Error: 5.3257
+Metrics for prediction 2:
+Mean Absolute Error: 235.9405
+Mean Absolute Percentage Error: 136.58%
+Symmetric Mean Absolute Percentage Error: 95.72%
+Root Mean Square Error: 262.1977
+
+Model: .\cnn_model3_bs8_lr0.1_e30.pth, Aggregate Score: 138.3462
+Metrics for prediction 1:
+Mean Absolute Error: 4.0257
+Mean Absolute Percentage Error: 94.42%
+Symmetric Mean Absolute Percentage Error: 178.89%
+Root Mean Square Error: 4.0530
+Metrics for prediction 2:
+Mean Absolute Error: 261.6020
+Mean Absolute Percentage Error: 93.76%
+Symmetric Mean Absolute Percentage Error: 177.18%
+Root Mean Square Error: 292.8351
+
+Model: .\cnn_model3_bs8_lr0.1_e50.pth, Aggregate Score: 140.4730
+Metrics for prediction 1:
+Mean Absolute Error: 3.9441
+Mean Absolute Percentage Error: 92.49%
+Symmetric Mean Absolute Percentage Error: 172.07%
+Root Mean Square Error: 3.9720
+Metrics for prediction 2:
+Mean Absolute Error: 267.7081
+Mean Absolute Percentage Error: 96.95%
+Symmetric Mean Absolute Percentage Error: 188.35%
+Root Mean Square Error: 298.3026
+
+Model: .\cnn_model3_bs16_lr0.1_e100.pth, Aggregate Score: 184.2438
+Metrics for prediction 1:
+Mean Absolute Error: 30.5098
+Mean Absolute Percentage Error: 714.52%
+Symmetric Mean Absolute Percentage Error: 171.30%
+Root Mean Square Error: 38.9049
+Metrics for prediction 2:
+Mean Absolute Error: 169.1291
+Mean Absolute Percentage Error: 83.06%
+Symmetric Mean Absolute Percentage Error: 74.96%
+Root Mean Square Error: 191.5769
+
+Model: .\cnn_model3_bs16_lr0.1_e50.pth, Aggregate Score: 207.1288
+Metrics for prediction 1:
+Mean Absolute Error: 37.6133
+Mean Absolute Percentage Error: 868.07%
+Symmetric Mean Absolute Percentage Error: 182.95%
+Root Mean Square Error: 51.7035
+Metrics for prediction 2:
+Mean Absolute Error: 169.7467
+Mean Absolute Percentage Error: 66.34%
+Symmetric Mean Absolute Percentage Error: 80.29%
+Root Mean Square Error: 200.3172
+
+Model: .\cnn_model3_bs16_lr0.1_e30.pth, Aggregate Score: 369.3113
+Metrics for prediction 1:
+Mean Absolute Error: 83.3830
+Mean Absolute Percentage Error: 1986.84%
+Symmetric Mean Absolute Percentage Error: 173.67%
+Root Mean Square Error: 157.5613
+Metrics for prediction 2:
+Mean Absolute Error: 170.9366
+Mean Absolute Percentage Error: 101.04%
+Symmetric Mean Absolute Percentage Error: 71.29%
+Root Mean Square Error: 209.7728
+
+Model: .\cnn_model3_bs8_lr0.1_e500.pth, Aggregate Score: 2165.5154
+Metrics for prediction 1:
+Mean Absolute Error: 374.6331
+Mean Absolute Percentage Error: 8279.37%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 3572.2852
+Metrics for prediction 2:
+Mean Absolute Error: 486.1759
+Mean Absolute Percentage Error: 723.10%
+Symmetric Mean Absolute Percentage Error: 46.05%
+Root Mean Square Error: 3642.5127
+
