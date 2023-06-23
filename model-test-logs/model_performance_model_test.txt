@@ -1,0 +1,36 @@
+Model: .\cnn_model3_bs4_lr0.001_e400.pth, Aggregate Score: 18.8496
+Metrics for prediction 1:
+Mean Absolute Error: 0.5984
+Mean Absolute Percentage Error: 13.66%
+Symmetric Mean Absolute Percentage Error: 14.91%
+Root Mean Square Error: 0.7416
+Metrics for prediction 2:
+Mean Absolute Error: 37.2149
+Mean Absolute Percentage Error: 17.74%
+Symmetric Mean Absolute Percentage Error: 21.64%
+Root Mean Square Error: 44.2813
+
+Model: .\model-best-retest-shorter.pth, Aggregate Score: 120.5657
+Metrics for prediction 1:
+Mean Absolute Error: 2.1865
+Mean Absolute Percentage Error: 50.21%
+Symmetric Mean Absolute Percentage Error: 67.33%
+Root Mean Square Error: 2.2210
+Metrics for prediction 2:
+Mean Absolute Error: 268.2839
+Mean Absolute Percentage Error: 94.26%
+Symmetric Mean Absolute Percentage Error: 179.26%
+Root Mean Square Error: 300.7775
+
+Model: .\current_best_model_b4_lr0.001_e500.pth, Aggregate Score: 124.5978
+Metrics for prediction 1:
+Mean Absolute Error: 2.7696
+Mean Absolute Percentage Error: 63.84%
+Symmetric Mean Absolute Percentage Error: 94.08%
+Root Mean Square Error: 2.7971
+Metrics for prediction 2:
+Mean Absolute Error: 265.6624
+Mean Absolute Percentage Error: 93.76%
+Symmetric Mean Absolute Percentage Error: 177.57%
+Root Mean Square Error: 296.3069
+
