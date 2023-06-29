@@ -1,0 +1,50 @@
+TTESTED AGAINST 15% of 2000 80 bin dataset
+
+Model: .\current_best_model_b4_lr0.001_e500.pth, Aggregate Score: 24.2052
+Metrics for prediction 1:
+Mean Absolute Error: 0.7534
+Mean Absolute Percentage Error: 17.65%
+Symmetric Mean Absolute Percentage Error: 19.17%
+Root Mean Square Error: 0.9387
+Metrics for prediction 2:
+Mean Absolute Error: 45.6443
+Mean Absolute Percentage Error: 18.75%
+Symmetric Mean Absolute Percentage Error: 23.52%
+Root Mean Square Error: 67.2114
+
+Model: .\cnn_oldmodel_500images_b4_e500.pth, Aggregate Score: 25.2631
+Metrics for prediction 1:
+Mean Absolute Error: 0.9332
+Mean Absolute Percentage Error: 21.87%
+Symmetric Mean Absolute Percentage Error: 22.49%
+Root Mean Square Error: 1.1386
+Metrics for prediction 2:
+Mean Absolute Error: 48.1815
+Mean Absolute Percentage Error: 16.88%
+Symmetric Mean Absolute Percentage Error: 19.09%
+Root Mean Square Error: 71.5225
+
+Model: .\cnn_oldmodel_500images_b8_e500.pth, Aggregate Score: 40.4328
+Metrics for prediction 1:
+Mean Absolute Error: 2.7092
+Mean Absolute Percentage Error: 64.16%
+Symmetric Mean Absolute Percentage Error: 103.32%
+Root Mean Square Error: 3.1898
+Metrics for prediction 2:
+Mean Absolute Error: 46.2209
+Mean Absolute Percentage Error: 16.04%
+Symmetric Mean Absolute Percentage Error: 18.24%
+Root Mean Square Error: 69.5807
+
+Model: .\cnn_oldmode_80images.pth, Aggregate Score: 44.6599
+Metrics for prediction 1:
+Mean Absolute Error: 1.5126
+Mean Absolute Percentage Error: 34.46%
+Symmetric Mean Absolute Percentage Error: 46.23%
+Root Mean Square Error: 1.9790
+Metrics for prediction 2:
+Mean Absolute Error: 85.9017
+Mean Absolute Percentage Error: 34.77%
+Symmetric Mean Absolute Percentage Error: 43.60%
+Root Mean Square Error: 108.8224
+

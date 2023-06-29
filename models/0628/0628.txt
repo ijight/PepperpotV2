@@ -1,0 +1,12 @@
+Model: .\cnn_3param_bs4_lr0.001_e200.pth, Aggregate Score: nan
+Mean Absolute Error: [0.08986248 0.85082    8.5166    ]
+Mean Absolute Percentage Error: [78.1971           nan  3.7612736]
+Symmetric Mean Absolute Percentage Error: [117.975525   60.573975    3.7009559]
+Root Mean Square Error: [ 0.10748214  1.0471892  11.684765  ]
+
+ACTUAL SCORES
+Model: .\cnn_3param_bs4_lr0.001_e200_80bin.pth, Aggregate Score: nan
+Mean Absolute Error: [6.9926828e-02 2.5414920e+00 1.4868787e+02]
+Mean Absolute Percentage Error: [56.429928       nan 55.141396]
+Symmetric Mean Absolute Percentage Error: [ 83.31725 142.17737  82.11143]
+Root Mean Square Error: [8.4858224e-02 3.0025079e+00 1.8630405e+02]

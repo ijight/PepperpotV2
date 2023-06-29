@@ -1,0 +1,36 @@
+Model: .\cnn_B&W_bs4_lr0.001_e200.pth, Aggregate Score: 44.9075
+Metrics for prediction 1:
+Mean Absolute Error: 1.7083
+Mean Absolute Percentage Error: 38.83%
+Symmetric Mean Absolute Percentage Error: 51.91%
+Root Mean Square Error: 2.1958
+Metrics for prediction 2:
+Mean Absolute Error: 86.0947
+Mean Absolute Percentage Error: 28.76%
+Symmetric Mean Absolute Percentage Error: 35.31%
+Root Mean Square Error: 114.4452
+
+Model: .\cnn_B&W_size2015_train0.7_val0.15_test0.15_bs4_lr0.001_e300.pth, Aggregate Score: 95.8610
+Metrics for prediction 1:
+Mean Absolute Error: 2.9186
+Mean Absolute Percentage Error: 66.96%
+Symmetric Mean Absolute Percentage Error: 100.93%
+Root Mean Square Error: 3.3500
+Metrics for prediction 2:
+Mean Absolute Error: 192.1148
+Mean Absolute Percentage Error: 77.51%
+Symmetric Mean Absolute Percentage Error: 118.16%
+Root Mean Square Error: 204.9355
+
+Model: .\cnn_B&W_size2015_train0.7_val0.15_test0.15_bs4_lr0.001_e50.pth, Aggregate Score: 102.8601
+Metrics for prediction 1:
+Mean Absolute Error: 4.0632
+Mean Absolute Percentage Error: 93.90%
+Symmetric Mean Absolute Percentage Error: 150.10%
+Root Mean Square Error: 4.3086
+Metrics for prediction 2:
+Mean Absolute Error: 184.1610
+Mean Absolute Percentage Error: 75.60%
+Symmetric Mean Absolute Percentage Error: 113.29%
+Root Mean Square Error: 197.4513
+
