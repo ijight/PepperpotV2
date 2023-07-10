@@ -1,0 +1,11 @@
+Model: .\cnn_2param_bs4_lr0.0001_e150.pth, Aggregate Score: 5.4791
+Mean Absolute Error: [0.15867999 6.3094583 ]
+Mean Absolute Percentage Error: [11.908997   2.6931117]
+Symmetric Mean Absolute Percentage Error: [11.35686    2.7145135]
+Root Mean Square Error: [0.20516218 8.485926  ]
+
+Model: .\cnn_2param_bs4_lr0.0001_e40.pth, Aggregate Score: 11.5732
+Mean Absolute Error: [ 0.38083497 11.457995  ]
+Mean Absolute Percentage Error: [30.739885   5.8272247]
+Symmetric Mean Absolute Percentage Error: [22.813097   5.9399343]
+Root Mean Square Error: [ 0.4974892 14.929512 ]
