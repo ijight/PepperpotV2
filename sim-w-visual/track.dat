@@ -1,0 +1,43 @@
+&TRAN
+
+  Win = 1.0d6, atp = 7.d0
+  freqb = 12.125d6, part = 0.99
+
+  nqtot=5
+  qq=1,1,1,1,1.
+  Amass=7,7,7,7,7.
+  npat=1000000,1000000,1000000,1000000,1000000
+  current=0.,0.,0.,0.,0.
+
+  Qdesign=1., Adesign=7.
+  db_b=0.0005, df_4D=180.
+
+  epsnx=0.10811180020242898d0, alfax=-3.5275443226916425d0, betax=412.01211062871795d0,
+  epsny=0.1d0, alfay=-0.55d0, betay=170.0d0,
+  epsnz=5.00d0, alfaz=0.10d0, betaz=10.0d0,
+
+  phmax=180., dwwmax=0.2
+
+  x00=0.,0., xp00=0.,0., y00=0.,0., yp00=0.,0., ph00=0.,0., dww00=0.
+
+&END
+ 
+&INDEX
+  NRZ=1, igraph=0, iaccep=0, isol=1, iflag_dis=0, iflag2D=0, iflag_qq=1,
+  iflag_rms=1, iint=100, nstep_cav=50
+  iflag_env=1, iflag_cav=1, iflag_ell=0, iflag_fenv=0
+  iflag_lev=0, isrf=100
+  iwrite_dis=0, iflag_corr=0
+&END
+
+&MATCH
+
+  mat_typ=2, mat_opt=3
+  min_typ=1, min_opt=5
+  min_max=1000
+  min_los=1, min_xys=0
+  min_bnd=2, bnd_fac=2., bnd_low=-5000.,0.,-5000., bnd_upp=0.,5000.,0.
+  beamw=0., beamf= 0.1,0.,0.,0.1,0.,0.,0.,0.,0.
+  fit_err=.01
+
+&END
