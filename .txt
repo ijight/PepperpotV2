@@ -1,0 +1,12 @@
+Model: .\cnn_3param-dbwd_bs4_lr0.001_e30_trn3799.pth, Aggregate Score: 57.0023
+Metrics for prediction 1:
+Mean Absolute Error: 0.1793
+Mean Absolute Percentage Error: 59.77%
+Symmetric Mean Absolute Percentage Error: 85.25%
+Root Mean Square Error: 0.1793
+Metrics for prediction 2:
+Mean Absolute Error: 4.9411
+Mean Absolute Percentage Error: 100.75%
+Symmetric Mean Absolute Percentage Error: 200.00%
+Root Mean Square Error: 4.9411
+
