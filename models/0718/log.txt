@@ -1,0 +1,11 @@
+Model: .\cnn_3param-dbwd_bs4_lr0.0001_e150.pth, Aggregate Score: 11.5532
+Mean Absolute Error: [ 0.04090808  0.22556217 10.761016  ]
+Mean Absolute Percentage Error: [37.525246  16.927729   4.2012234]
+Symmetric Mean Absolute Percentage Error: [30.70754   15.061636   4.2707806]
+Root Mean Square Error: [ 0.05093808  0.33205608 18.533676  ]
+
+Model: .\cnn_3param-dbwd_bs4_lr0.001_e150.pth, Aggregate Score: 130.1499
+Mean Absolute Error: [2.8176013e-01 2.8620818e+00 2.8814496e+02]
+Mean Absolute Percentage Error: [256.15875 178.15881 151.05923]
+Symmetric Mean Absolute Percentage Error: [ 98.22835 123.12686  77.06167]
+Root Mean Square Error: [3.3664414e-01 3.5012503e+00 3.8287891e+02]
