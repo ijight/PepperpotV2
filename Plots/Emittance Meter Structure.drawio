@@ -1,0 +1,117 @@
+<mxfile host="Electron" modified="2023-07-27T06:50:58.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="4q9r4_PvrsdQRWbgeVIw" version="21.2.1" type="device">
+  <diagram name="Page-1" id="7_8LpUwnFBuVWwaC7aP_">
+    <mxGraphModel dx="1036" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QLeIfFel-2fC2PTdJrr_-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="290" as="sourcePoint" />
+            <mxPoint x="530" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-2" value="Beamline" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QLeIfFel-2fC2PTdJrr_-1">
+          <mxGeometry x="0.2642" relative="1" as="geometry">
+            <mxPoint x="-58" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-6" value="Scintillating Plate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="204" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-7" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573.5" y="265" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-10" value="CCD Camera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-26" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="270" width="25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-26">
+          <mxGeometry width="25" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-27">
+          <mxGeometry width="8" height="13" as="geometry">
+            <mxRectangle width="8" height="13" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-27">
+          <mxGeometry x="8" width="9" height="13" as="geometry">
+            <mxRectangle width="9" height="13" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-27">
+          <mxGeometry x="17" width="8" height="13" as="geometry">
+            <mxRectangle width="8" height="13" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-26">
+          <mxGeometry y="13" width="25" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-31">
+          <mxGeometry width="8" height="14" as="geometry">
+            <mxRectangle width="8" height="14" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-31">
+          <mxGeometry x="8" width="9" height="14" as="geometry">
+            <mxRectangle width="9" height="14" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-31">
+          <mxGeometry x="17" width="8" height="14" as="geometry">
+            <mxRectangle width="8" height="14" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-26">
+          <mxGeometry y="27" width="25" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-35">
+          <mxGeometry width="8" height="13" as="geometry">
+            <mxRectangle width="8" height="13" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-35">
+          <mxGeometry x="8" width="9" height="13" as="geometry">
+            <mxRectangle width="9" height="13" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-38" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="QLeIfFel-2fC2PTdJrr_-35">
+          <mxGeometry x="17" width="8" height="13" as="geometry">
+            <mxRectangle width="8" height="13" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-39" value="Pepperpot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314.5" y="237" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.738;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="280.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="368" y="289.5" as="sourcePoint" />
+            <mxPoint x="546" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.252;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="300" as="sourcePoint" />
+            <mxPoint x="539" y="300.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-43" value="Beamlets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="411" y="251" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QLeIfFel-2fC2PTdJrr_-44" value="10cm of propagation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="381" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

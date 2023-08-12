@@ -1,5 +1,0 @@
-Model: .\cnn_3param-bw-sgwd_bs4_lr0.0001_e150.pth, Aggregate Score: nan
-Mean Absolute Error: [ 0.04899851  0.4358419  19.984005  ]
-Mean Absolute Percentage Error: [36.8484         nan 10.397666]
-Symmetric Mean Absolute Percentage Error: [43.57013  27.351974  9.711086]
-Root Mean Square Error: [ 0.0648629  0.5645415 27.067497 ]

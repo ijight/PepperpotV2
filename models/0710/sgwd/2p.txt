@@ -1,5 +1,0 @@
-Model: .\cnn_2param-bw-sgwd_bs4_lr0.001_e150.pth, Aggregate Score: 15.9525
-Mean Absolute Error: [ 0.4055275 15.503457 ]
-Mean Absolute Percentage Error: [47.781895  6.247301]
-Symmetric Mean Absolute Percentage Error: [30.304285  6.498192]
-Root Mean Square Error: [ 0.58623356 20.293373  ]
